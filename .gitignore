@@ -10,3 +10,4 @@ jquery.timepicker.min.*
 *.sample*
 *.DS_Store
 *.sublime-*
+.idea/*

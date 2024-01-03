@@ -14,6 +14,7 @@
         factory(jQuery, window, document);
     }
 }(function($, window, document, undefined) {
+
     (function() {
 
         function pad(str, ch, length) {
